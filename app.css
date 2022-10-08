@@ -5,8 +5,8 @@ body {
 
 img:hover{
     cursor:pointer;
-    transform:scale(1.05);
-    transition: transform 1s ease-in;
+    transform:scale(1.1);
+    transition: transform 2s ease-out;
 }
 
 .blurb h2 {
@@ -23,13 +23,13 @@ img:hover{
 }
 
 .content {
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 110px;
+    margin-bottom: 110px;
 }
 
 #mainNavbar {
     font-size: 1.5rem;
-    font-weight: 100px;
+    font-weight: 110px;
 }
 
 #mainNavbar .nav-link {
